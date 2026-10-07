@@ -1,5 +1,5 @@
 {
-  "apiBase": "https://zorixlauncher.vercel.app",
+  "apiBase": "http://127.0.0.1:3939",
   "apiFallbacks": [],
   "maintenance": false
 }
